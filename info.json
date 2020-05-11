@@ -1,0 +1,14 @@
+{
+    "name": "Drone_World",
+    "version": "0.1.0",
+    "title": "Drone World",
+    "author": "tubs",
+    "contact": "",
+    "homepage": "",
+    "description": "Remove anything that should instead be done by drone",
+    "dependencies": ["base >= 0.18.22", 
+        "rusty-locale",
+        "Transport_Drones >= 0.6.0"
+    ],
+    "factorio_version": "0.18"
+  }
